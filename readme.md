@@ -15,7 +15,7 @@
 
 /srv/alfresco-4.2.f/tomcat/webapps/share/WEB-INF/classes/alfresco/messages/slingshot_en.properties
 
-theme.lightTheme=Light Theme
-...
-theme.gdocs=Google Docs Theme
-+ theme.sdcTheme=SDC Theme
+      theme.lightTheme=Light Theme
+      ...
+      theme.gdocs=Google Docs Theme
+    + theme.sdcTheme=SDC Theme
