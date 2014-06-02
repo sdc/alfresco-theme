@@ -163,7 +163,8 @@ h4 .lighter
 
 .dashlet .title
 {
-   background-color: #92c15f;
+   /*background-color: #92c15f;*/
+   background-color: #b39ac5;
    background-image: url(images/dashlet-title-bg.png);
    background-repeat: repeat-x;
    color: #fff;
@@ -370,7 +371,8 @@ h4 .lighter
 
 .site-navigation
 {
-   background-color: #5FAC34;
+   /*background-color: #5FAC34;*/
+   background-color: #9458c0;
    background-image: url(../../components/images/navigation-bg.png);
    border-bottom: 1px solid #3a6c38;
    border-top: 1px dotted #bbd6e7;
@@ -507,7 +509,8 @@ span.navigation-separator-alt
 .toolbar .link a:hover,
 .members-bar .member-link a:hover
 {
-   color: #009300;
+   /*color: #009300;*/
+   color: #4f2170;
 }
 
 /* Richtext Editor Plug-ins */
@@ -570,7 +573,8 @@ span.mce_alfresco-linklibrary
 .yui-skin-sdcTheme div.flat-button span.yui-radio-button-checked,
 .yui-skin-sdcTheme div.flat-button span.yui-checkbox-button-checked
 {
-   background: #5FAC34 none;
+   /*background: #5FAC34 none;*/
+   background: #9458c0 none;
 }
 
 /* Override checked styles for doclist */
@@ -1016,7 +1020,8 @@ body.yui-skin-sdcTheme .yui-columnbrowser .yui-carousel-content li.yui-columnbro
 {
    /*background-color: #00AE42;*/ /* Theme Colour 1 */
    background-color: #4f2170; /* Theme Colour 1 */
-   border-color: #5FAC34;
+   /*border-color: #5FAC34;*/
+   border-color: #9458c0;
    color: #FFFFFF;
 }
 
@@ -1114,7 +1119,8 @@ a.theme-color-4,
 a.theme-color-4:visited,
 a.theme-color-4:hover
 {
-   color: #009300;
+   /*color: #009300;*/
+   color: #4f2170;
 }
 
 .theme-color-5,
@@ -1130,7 +1136,8 @@ a.theme-color-5:hover
 .theme-bg-color-1,
 div.theme-bg-color-1
 {
-   background-color: #5FAC34;
+   /*background-color: #5FAC34;*/
+   background-color: #9458c0;
 }
 
 .theme-bg-color-2,
@@ -1235,7 +1242,8 @@ div.theme-bg-color-8
 
 .theme-bg-selected
 {
-   background-color: #5FAC34;
+   /*background-color: #5FAC34;*/
+   background-color: #9458c0;
 }
 
 /* Theme border type/colors */
