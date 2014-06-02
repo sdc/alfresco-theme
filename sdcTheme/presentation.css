@@ -1103,7 +1103,8 @@ a.theme-color-2,
 a.theme-color-2:visited,
 a.theme-color-2:hover
 {
-   color: #038603;
+   /*color: #038603;*/
+   color: #4f2170;
 }
 
 .theme-color-3,
